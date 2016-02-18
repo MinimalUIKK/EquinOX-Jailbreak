@@ -1,7 +1,7 @@
 # EquinOX Jailbreak
 ##Check the [Releases](https://github.com/August712/EquinOX-Jailbreak/releases) page for updates and news.
 
-"Source code of an incomplete ios ~~8.4.1~~ 9.2 jailbreak."
+"Source code of an incomplete ios ~~8.4.1~~ *9.1-9.3b2* jailbreak."
 
 EquinOX Jailbreak (Formerly "Yalu for 9.2") by Andrew Augustine ([August712](https://www.twitter.com/August712), 9.1+ Optimization) and Luca Todesco ([qwertyoruiop](https://www.twitter.com/August712), KJC Exploits)
 
